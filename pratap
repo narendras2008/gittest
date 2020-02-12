@@ -1,6 +1,0 @@
-#! /bin/bash
-echo "Print my name"
-read name
-echo "$name,Tell me your address"
-read address
-
