@@ -3,7 +3,7 @@ pipeline {
      stages {
         stage ('mybuild') {
           steps {
-           sh 'mkdir golu'
+           sh 'echo hello'
                 }
               }
            }
